@@ -16,7 +16,7 @@ import shutil
 class FileTraverserGUI:
     def __init__(self, root):
         self.root = root
-        self.root.title("File Traverser - Copy Files from Folders - Victor Fernandez")
+        self.root.title("FileVex - Copy Files from Folders - Victor Fernandez")
         self.root.geometry("800x700")
         self.root.resizable(True, True)
         
